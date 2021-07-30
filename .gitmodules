@@ -4,3 +4,6 @@
 [submodule "Arduino_Two-Sensor-Temperature-Air-Pressure-and-Humidity"]
 	path = Arduino_Two-Sensor-Temperature-Air-Pressure-and-Humidity
 	url = https://github.com/zizwiz/Arduino_Two-Sensor-Temperature-Air-Pressure-and-Humidity
+[submodule "Arduino_RealTimeClock"]
+	path = Arduino_RealTimeClock
+	url = https://github.com/zizwiz/Arduino_RealTimeClock
