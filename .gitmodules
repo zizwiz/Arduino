@@ -10,3 +10,6 @@
 [submodule "Arduino_NanoFirmataDemo"]
 	path = Arduino_NanoFirmataDemo
 	url = https://github.com/zizwiz/Arduino_NanoFirmataDemo
+[submodule "Arduino_FirmataStepperMotorTest"]
+	path = Arduino_FirmataStepperMotorTest
+	url = https://github.com/zizwiz/Arduino_FirmataStepperMotorTest
