@@ -7,3 +7,6 @@
 [submodule "Arduino_RealTimeClock"]
 	path = Arduino_RealTimeClock
 	url = https://github.com/zizwiz/Arduino_RealTimeClock
+[submodule "Arduino_NanoFirmataDemo"]
+	path = Arduino_NanoFirmataDemo
+	url = https://github.com/zizwiz/Arduino_NanoFirmataDemo
